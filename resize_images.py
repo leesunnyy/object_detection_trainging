@@ -1,6 +1,7 @@
 import os
 import glob
-import cv2
+import cv2, matplotlib, pillow
+
 
 if __name__ == "__main__":
     import argparse
